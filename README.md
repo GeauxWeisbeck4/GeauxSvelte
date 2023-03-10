@@ -1,2 +1,0 @@
-# GeauxSvelte
-Svelte + Sass

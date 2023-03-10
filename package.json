@@ -1,0 +1,18 @@
+{
+  "name": "@backlight-dev/geauxweisbeck4.svelte-lf2kou8v",
+  "version": "2.0.4",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve kTQb1ZZs2zjGje3lkhFn --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.0.0"
+  },
+  "dependencies": {
+    "svelte": "^3.44.0"
+  }
+}
